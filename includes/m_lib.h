@@ -8,4 +8,5 @@ char	*m_strdup(char *src);
 char	*m_strndup(char *src, unsigned int n);
 char	*m_strcat(char *dest, char *src);
 char	*m_strncat(char *dest, char *src, unsigned int n);
+void	m_putchar(char c);
 #endif
