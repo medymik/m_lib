@@ -13,4 +13,5 @@ void	m_putstr(char *str);
 int	m_atoi(char *str);
 void	m_putnbr(int nbr);
 int	m_atoi_base(char *str, int base);
+char	*m_strcpy(char *dest, char *strcpy);
 #endif
