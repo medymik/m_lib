@@ -1,6 +1,6 @@
-int	m_strncmp(char *str1, char *str2, unsigned int n)
+int			m_strncmp(char *str1, char *str2, unsigned int n)
 {
-	int	index;
+	unsigned int	index;
 
 	index = 0;
 
