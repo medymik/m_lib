@@ -15,4 +15,5 @@ void	m_putnbr(int nbr);
 int	m_atoi_base(char *str, int base);
 char	*m_strcpy(char *dest, char *strcpy);
 char	*m_strncpy(char *dest, char *src, unsigned int n);
+char	*m_strstr(char *str, char *to_find);
 #endif
